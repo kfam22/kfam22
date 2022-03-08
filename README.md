@@ -1,8 +1,8 @@
 👋 Hi, I’m Kayla. I design and program things. <br/>
 👩🏾‍💻 I’m currently working on the client side for my [Student/Instructor Portal](https://github.com/kfam22/Student-Instructor-portal-backend) <br/>
 🌱 I’m currently learning **JavaScript, React, TypeScript, and Tailwind CSS** <br/>
-✉ How to reach me kayla.famurewa@gmail.com <br/>
-👉 More about me here [kaylafamurewa.com](https://kaylafamurewa.com)<br/>
+✉ Contact me kayla.famurewa@gmail.com <br/>
+👉 More about me [kaylafamurewa.com](https://kaylafamurewa.com)<br/>
 🧰 Tools I use: Javascript, React, Redux, Axios, HTML, CSS, Node.js, Express, SQL, Knex, Cypress, Jest
 
 
