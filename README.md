@@ -1,5 +1,5 @@
 👋 Hi, I’m Kayla. I design and program things. <br/>
-👩🏾‍💻 I’m currently working on a React e-commerce website using [Hyrdrogen](https://shopify.dev/custom-storefronts/hydrogen) <br/>
+👩🏾‍💻 I’m currently working on a React e-commerce websites using [Hyrdrogen](https://shopify.dev/custom-storefronts/hydrogen) <br/>
 🌱 I’m learning **JavaScript, React, TypeScript, and Tailwind CSS** <br/>
 ✉ Contact me kayla.famurewa@gmail.com <br/>
 👉 More about me [kaylafamurewa.com](https://kaylafamurewa.com)<br/>
