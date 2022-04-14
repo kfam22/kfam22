@@ -1,6 +1,6 @@
 
 
- <p align="center"><a href="https://kaylafamurewa.com" style={color:"white"}> . kayla famurewa . </a></p>
+ <p align="center"><a href="https://kaylafamurewa.com" style={color:"white"}>Kayla Famurewa</a></p>
 
  <p align="center"> I'm Kayla, a conscientious creative software engineer from San Francisco with Nigerian roots 🌱 </p>
 
