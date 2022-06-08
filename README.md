@@ -2,11 +2,11 @@
 
  <p align="center"><a href="https://kaylafamurewa.com" style={color:"white"}>Kayla Famurewa</a></p>
 
- <p align="center"> I'm Kayla, a conscientious creative software engineer from San Francisco with Nigerian roots 🌱 </p>
+ <p align="center"> I'm Kayla, a conscientious, creative software engineer from San Francisco with Nigerian roots 🌱 </p>
 
- <p align="center"> I like exploring the intersection between design and tech where functionality meets aesthetics ➰ </p>
+ <p align="center"> I'm interested in designing and building the future of technology, all things metaverse, and integrated/wearable tech 💫 </p>
 
- <p align="center"> I craft thoughtful user experiences, validate designs and make them come to life with code 🕊</p>
+ <p align="center"> I craft thoughtful user experiences, validate designs and make them come to life with code 👩🏾‍💻</p>
  
   <p align="center"> Get in touch with me kayla.famurewa@gmail.com ✉</p>
   <div align="center">
